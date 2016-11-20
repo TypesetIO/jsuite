@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+  </front>
+  <body>
+    <sec>
+      <list list-type="bullet">
+        <list-item id="list-item-3b058d5c53ffcf77525f205ab1d35a8d">
+          <p>word</p>
+        </list-item>
+        <list-item id="list-item-a818c956936fcf181410b2cbc60daafe">
+          <p>word</p>
+        </list-item>
+        <list-item id="list-item-e9788329abf678ccf4127fd2d6e15306">
+          <p>word</p>
+        </list-item>
+      </list>
+      <p id="paragraph-3925f6ee0860f318f8433c2e78a4310a">
+        Some text here to talk about <xref id="xref-f58ae5762cc344b74d060a67583e8823" rid="ISI-A1988N729000066" ref-type="bibr" ts-ref-count="1"></xref> things. Let's <xref id="xref-114f74e5e67491533ee19086529449d4" rid="MendBib128" ref-type="bibr" ts-ref-count="1"></xref> add some citations now. <xref id="xref-865c97c8148cdd8e8afb94fdb2cbfd07" rid="ref-3ac85549e489fbd44b3d1bfee75c6c21 MendBib129" ref-type="bibr" ts-ref-count="2"></xref>
+      </p>
+      <fig id="figure-d9219a047f91e4437e6036042624e198">
+        <graphic id="graphic-c74ea9eb569d6dc0621f0ec0598ede57" xlink:href="https://typeset-media-server.s3.amazonaws.com/documents/50b6f3f8-7f11-4194-9cb1-5ebd86472bc2/images/afremov-1.jpg" />
+        <caption id="caption-2a1016201f0ca2b0d40f331ed384f89b">
+          <title id="title-49c1500c36afa4a4e47e8b548af6e10b">Linguistic aphorism</title>
+        </caption>
+      </fig>
+      <p id="paragraph-30200e4cf64c6125fe43ef2372a50ae9" />
+      <table-wrap id="table-wrap-a06c9ad1a0a9adf1a5fb024cf2300f9a">
+        <caption id="caption-c104f730dd686237805403cd19472475">
+          <title id="title-fa7d69ec79200fa02f213db8f5bfd8f5" />
+        </caption>
+        <table id="table-5e83f14c2efc847cb7c4fb78e8935558" rules="rows">
+          <tbody id="table-section-eb1bd946f5815b6a86e27a54cb9f203f">
+            <tr id="table-row-4458e18d9126b12b2d8d0fbf29d87694">
+              <td id="table-cell-d6847cf00a598eacfa64c1cc94b23e38">1</td>
+              <td id="table-cell-1da520d5cbf3d0c23406572032831273">2</td>
+              <td id="table-cell-d2b97ce4f6311875db8ea8023215b304">2</td>
+              <td id="table-cell-e88f7c92cc21768eb1e0303081268b43">2</td>
+            </tr>
+            <tr id="table-row-bf08c6cd7f8935042cf2c828c422d23e">
+              <td id="table-cell-15ee90261c6c3e73aae3e03df8d3cc63">4</td>
+              <td id="table-cell-81492f4acd43701c9db2b59b1fba71bd">4</td>
+              <td id="table-cell-7210c041c71ffca39900e34052943e8a">4</td>
+              <td id="table-cell-15c7a3073066cc6e0ced558a5957f124">4</td>
+            </tr>
+            <tr id="table-row-69aed4c06d3aee02f03985dcdadf4c01">
+              <td id="table-cell-0dc073345058ca87b15c3ea81be58e17" />
+              <td id="table-cell-0e3456560a0acb0d33e453c8453fa019" />
+              <td id="table-cell-a6209f9603426bb86c2eb32a5e7a0d8f" />
+              <td id="table-cell-58f0c86bbe4f3068c5b1a9eadd16c7b2" />
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+  </body>
+  <back>
+  </back>
+</article>
