@@ -7,4 +7,4 @@ def from_file(file_like):
   return etree.parse(file_like)
 
 # Define public API
-from . import extract, content
+from . import extract, content, count

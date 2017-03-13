@@ -16,11 +16,16 @@ def content(to_content, doc):
   if to_content == 'body':
     textui.puts(jsuite.content.body_text(doc))
 
+def count(to_count, doc):
+  if to_count:
+    textui.puts('%d' % jsuite.count.of_type(doc, to_count))
+
 USAGE = """
 Supported commands
 
 > jsuite --extract article-title <file>
 > jsuite --content body <file>
+> jsuite --count fig <file>
 """
 
 if __name__ == "__main__":
@@ -40,6 +45,13 @@ if __name__ == "__main__":
       to_content = args.grouped.get('--content')[0]
       with open(args.files[0]) as f:
         content(to_content, jsuite.from_file(f))
+
+    if '--count' in args.grouped:
+      handled = True
+      to_count = args.grouped.get('--count')[0]
+      with open(args.files[0]) as f:
+        count(to_count, jsuite.from_file(f))
+
   else:
     textui.puts('No files provided')
 

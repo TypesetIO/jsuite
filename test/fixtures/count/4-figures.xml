@@ -1,0 +1,129 @@
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta id="journal-meta-1">
+			<journal-id journal-id-type="type">
+				journal
+			</journal-id>
+			<journal-id journal-id-type="nlm-ta">
+				IISC
+			</journal-id>
+			<journal-id journal-id-type="publisher-id">
+				IISC
+			</journal-id>
+			<journal-id journal-id-type="institution_id">
+				3227
+			</journal-id>
+			<journal-id journal-id-type="journal_submission_guidelines">
+				None
+			</journal-id>
+			<journal-title-group>
+				<journal-title>
+					Template for IISc Thesis
+				</journal-title>
+				<abbrev-journal-title />
+			</journal-title-group>
+		</journal-meta>
+		<article-meta id="article-meta-1" ts-front-matter-type="university">
+      <abstract>
+        <!-- contains a figure inside the abstract. This should be ignored -->
+        <fig id="figure-1">
+          <graphic id="graphic-1" xlink:href="https://upload.wikimedia.org/wikipedia/commons/e/e8/Claude_Monet_-_Camille.JPG" />
+          <caption id="caption-1">
+            <title id="title-2">
+              Claude Monet
+            </title>
+          </caption>
+        </fig>
+      </abstract>
+			<title-group>
+				<article-title id="title-1">
+					Clustered regularly interspaced short palindromic repeats
+				</article-title>
+			</title-group>
+			<contrib-group />
+			<custom-meta-group />
+		</article-meta>
+	</front>
+	<body>
+		<sec>
+			<fig id="figure-1">
+				<graphic id="graphic-1" xlink:href="https://upload.wikimedia.org/wikipedia/commons/e/e8/Claude_Monet_-_Camille.JPG" />
+				<caption id="caption-1">
+					<title id="title-2">
+						Claude Monet
+					</title>
+				</caption>
+			</fig>
+			<p id="paragraph-ddd87255c8328c08867f85aa83357619">
+				Clustered regularly
+				<bold id="strong-bd888acd619b39d653c3bdb24c4d19ba">
+					interspaced
+				</bold>
+				short palindromic repeats&#xA0;(CRISPR, pronounced&#xA0;crisper) are segments of&#xA0;prokaryotic&#xA0;DNA&#xA0;containing short repetitions of base sequences. Each repetition is followed by short segments of &quot;spacer DNA&quot; from previous exposures to foreign DNA (e.g a&#xA0;virus&#xA0;or&#xA0;plasmid).
+			</p>
+			<table-wrap id="table-wrap-ea202e6a799851814df66ab8c79fd75d">
+				<caption id="caption-86230561087763916b1d59b02266a6e3">
+					<title id="title-70be43f6456619331bc3f4d0a0ad8c29" />
+				</caption>
+				<table id="table-043ecca58c7b3db307383f496c7f3e0a" rules="rows">
+					<tbody id="table-section-6f7efeea5996485072e7f5a801763c24">
+						<tr id="table-row-64f1ae1a4665a8cb6eff4a1912e1cd48">
+							<td id="table-cell-8b42a3ac34690668e0d8377333eed1c7" />
+							<td id="table-cell-3b94ce80d1fe85c2ffb59b42428c0d7d" />
+							<td id="table-cell-40a6f0cec3bb34bb946df55bc16153a0" />
+							<td id="table-cell-f8950282d3f030ec18be90040deab201" />
+							<td id="table-cell-b0173ba69df85365ed0f2dc6088c46d7" />
+						</tr>
+						<tr id="table-row-adfd634f6968cf505d2a50cc26ac3975">
+							<td id="table-cell-bbb5eaefff7f8e3b8db5d38dcd60e42f" />
+							<td id="table-cell-9a7f78f47b5f66a53f0a63dd7d0d381d" />
+							<td id="table-cell-04aa6d43d1c0ed6f46cd6ac78fe4360b" />
+							<td id="table-cell-ec3fcc250b1929accb5bfa031257e55d" />
+							<td id="table-cell-5e3c7c28e404827a58a99d46ff7e8bbf" />
+						</tr>
+						<tr id="table-row-4d38d0f05d50e91c655369dd4ba73a78">
+							<td id="table-cell-e8a28343d65bddde41f70aad6c72f4a3" />
+							<td id="table-cell-eb1c8da2c83d71e23a798e73b666989e" />
+							<td id="table-cell-c749e6b2c923cba5d78e64b291cbb50c" />
+							<td id="table-cell-a1cbf7284ae5c9edf64e73aeb0c4caab" />
+							<td id="table-cell-1f8a683c3e09749bd93e55f009e750c1" />
+						</tr>
+					</tbody>
+				</table>
+			</table-wrap>
+			<p id="paragraph-cbb9ac461bf969f110fa18dd6095442c">
+				The&#xA0;CRISPR/Cas system&#xA0;is a prokaryotic&#xA0;immune system&#xA0;that confers resistance to foreign genetic elements such as those present within&#xA0;plasmids&#xA0;and&#xA0;phages,and provides a form of&#xA0;acquired immunity.&#xA0;CRISPR&#xA0;associated proteins (Cas) use the CRISPR spacers to recognize and cut these exogenous genetic elements in a manner analogous to&#xA0;RNA interference&#xA0;in&#xA0;eukaryotic&#xA0;organisms.&#xA0;CRISPRs are found in approximately 40% of sequenced&#xA0;bacterial&#xA0;genomes and 90% of sequenced&#xA0;archaea.
+			</p>
+			<p id="paragraph-dcc035d6e3399aa9a626e3107832ca46">
+				Cas9&#xA0;was the first&#xA0;nuclease&#xA0;discovered, followed by Cpf1, which was discovered in the&#xA0;CRISPR/Cpf1&#xA0;system of&#xA0;Francisella novicida.&#xA0;Other such systems are thought to exist. CRISPR/C2c2 from the bacterium&#xA0;Leptotrichia shahii&#xA0;is RNA-guided CRISPR system that targets RNA rather than DNA, and can either cleave single-stranded RNA targets or&#xA0;knock them down.
+			</p>
+      <fig id="figure-221">
+				<graphic id="graphic-1" xlink:href="https://upload.wikimedia.org/wikipedia/commons/e/e8/Claude_Monet_-_Camille.JPG" />
+				<caption id="caption-1">
+					<title id="title-2">
+						Claude Monet
+					</title>
+				</caption>
+			</fig>
+      <fig id="figure-23">
+				<graphic id="graphic-1" xlink:href="https://upload.wikimedia.org/wikipedia/commons/e/e8/Claude_Monet_-_Camille.JPG" />
+				<caption id="caption-1">
+					<title id="title-2">
+						Claude Monet
+					</title>
+				</caption>
+			</fig>
+      <fig id="figure-12">
+				<graphic id="graphic-1" xlink:href="https://upload.wikimedia.org/wikipedia/commons/e/e8/Claude_Monet_-_Camille.JPG" />
+				<caption id="caption-1">
+					<title id="title-2">
+						Claude Monet
+					</title>
+				</caption>
+			</fig>
+		</sec>
+	</body>
+	<back>
+		<ref-list id="ref-list-1" />
+	</back>
+</article>
