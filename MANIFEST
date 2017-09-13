@@ -3,6 +3,8 @@ setup.py
 bin/jsuite
 jsuite/__init__.py
 jsuite/content.py
+jsuite/count.py
 jsuite/extract.py
 test/test_content.py
+test/test_count.py
 test/test_extract.py
