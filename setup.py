@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
   name = 'jsuite',
   packages = ['jsuite'], # this must be the same as the name above
-  version = '0.3.0',
+  version = '0.4.0',
 
   scripts=['bin/jsuite'],
   install_requires = [
