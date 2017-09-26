@@ -9,3 +9,7 @@ def of_type_in_body(etree, type):
 def of_type(etree, type):
   xpath_query = './/%s' %(type)
   return len(etree.findall(xpath_query))
+
+def of_type_contrib(etree):
+  xpath_query = './front//contrib-group//contrib'
+  return len(etree.findall(xpath_query))
