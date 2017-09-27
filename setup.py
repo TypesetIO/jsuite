@@ -11,7 +11,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 
 setup(
     name='jsuite',
-    version='0.4.1',
+    version='0.5.0',
 
     description='Parsing and manipulation tools for JATS XML files.',
     long_description=long_description,
