@@ -10,6 +10,5 @@ def of_type(etree, type):
   xpath_query = './/%s' %(type)
   return len(etree.findall(xpath_query))
 
-def of_type_contrib(etree):
-  xpath_query = './front//contrib-group//contrib'
+def of_xpath(etree, xpath_query):
   return len(etree.findall(xpath_query))
