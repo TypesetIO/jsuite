@@ -55,7 +55,7 @@ setup(
     packages=['jsuite'],
 
     install_requires=[
-      'lxml==3.6.4',
+      'lxml==4.6.5',
       'clint==0.5.1'
     ],
     
